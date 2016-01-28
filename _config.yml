@@ -1,14 +1,26 @@
-layout_spectrum: 0.1886799
-typography_spectrum: 0.1441504
+layout_spectrum: 0.2297872
+name: Urayoan
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  lightness: 0.263375
   brandStrength: 0.1341562
   saturation: 0.299076
-  rhythmicContrast: 0.8948262
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-name: Urayoan
+  lightness: 0.263375
+  rhythmicContrast: 0.8948262
+typography_spectrum: 0.1441504
