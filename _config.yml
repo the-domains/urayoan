@@ -1,17 +1,5 @@
-layout_spectrum: 0.2297872
+layout_spectrum: 0.9680851
 name: Urayoan
-color:
-  brandStrength: 0.3340425
-  saturation: 0.299076
-  brandColors:
-    - '#393930'
-    - '#030302'
-    - '#77A5C4'
-    - '#5C6F87'
-    - '#885331'
-  lightness: 0.263375
-  rhythmicContrast: 0.8948262
-typography_spectrum: 0.1441504
 collections:
   - index:
       navigable: true
@@ -24,3 +12,15 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.1340425
+color:
+  brandStrength: 0.3340425
+  saturation: 0.299076
+  brandColors:
+    - '#393930'
+    - '#030302'
+    - '#77A5C4'
+    - '#5C6F87'
+    - '#885331'
+  lightness: 0.263375
+  rhythmicContrast: 0.8948262
