@@ -1,17 +1,5 @@
 layout_spectrum: 0.9680851
 name: Urayoan
-collections:
-  - index:
-      navigable: true
-      path: /
-      number: 15
-      paginate: true
-    feed:
-      format: rss
-      path: /rss.xml
-      number: 10
-    permalink:
-      path: '/:title/'
 color:
   brandStrength: 0.3340425
   saturation: 0.299076
@@ -24,3 +12,15 @@ color:
   lightness: 0.263375
   rhythmicContrast: 0.8948262
 typography_spectrum: 0.1531915
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
